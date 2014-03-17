@@ -1,0 +1,6 @@
+<?php
+
+$cryptsy_api_key = '';
+$cryptsy_api_secret = '';
+
+?>
