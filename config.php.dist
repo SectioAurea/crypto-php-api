@@ -3,4 +3,7 @@
 $cryptsy_api_key = '';
 $cryptsy_api_secret = '';
 
+$btce_api_key = '';
+$btce_api_secret = '';
+
 ?>
